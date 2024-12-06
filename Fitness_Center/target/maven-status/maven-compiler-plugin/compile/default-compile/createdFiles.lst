@@ -1,0 +1,14 @@
+models\Training.class
+repositories\Main.class
+repositories\TrainerRepository.class
+repositories\impl\ClientRepositoryImpl.class
+models\Client.class
+repositories\impl\TrainerRepositoryImpl.class
+repositories\impl\SubscriptionRepositoryImpl.class
+models\Trainer.class
+repositories\ClientRepository.class
+repositories\BaseRepository.class
+repositories\impl\TrainingRepositoryImpl.class
+models\Subscription.class
+repositories\SubscriptionRepository.class
+repositories\TrainingRepository.class
